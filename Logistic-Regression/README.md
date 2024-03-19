@@ -1,1 +1,1 @@
-Brief description of LR
+Brief description of Logistic Regression
